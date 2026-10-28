@@ -1,0 +1,40 @@
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Log files
+*.log
+*.log.*
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# JetBrains / Android Studio shared config
+.idea/
+*.iml
+*.iws
+
+# Local environment secrets (API keys, DB URLs)
+.env
+.env.local
+.env.*.local

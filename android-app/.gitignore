@@ -1,0 +1,26 @@
+# Gradle files
+.gradle/
+/build/
+/*/build/
+
+# Local configuration file (contains local SDK path)
+local.properties
+
+# Log files
+*.log
+
+# Android Studio / IntelliJ local files
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Keystore files (NEVER commit your production release keys)
+*.jks
+*.keystore
+*.pk8
+*.p12
+
+# Google Services configuration file (if you use Firebase)
+# Remove this line if you want to share Firebase configs in public repos
+# google-services.json
